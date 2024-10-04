@@ -10,6 +10,11 @@
       "StackName": "amplify-graphqlamplify-dev-d2c4e",
       "StackId": "arn:aws:cloudformation:us-east-1:825026804841:stack/amplify-graphqlamplify-dev-d2c4e/248f5790-81f1-11ef-8169-120861abe029",
       "AmplifyAppId": "d2x640td4f25na"
+    },
+    "categories": {
+      "api": {
+        "graphqlamplify": {}
+      }
     }
   }
 }
